@@ -1,0 +1,391 @@
+fileFormatVersion: 2
+guid: 125ac41c58ecfb44dbdfd7d50c53607c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8985426013337206500
+    second: Buff enemy lightning R_arm
+  - first:
+      213: 977171254676080265
+    second: Buff enemy lightning body
+  - first:
+      213: -3178986816192175574
+    second: Buff enemy lightning R_thigh
+  - first:
+      213: 7366804844015441360
+    second: Buff enemy lightning L_arm
+  - first:
+      213: 110270943666879550
+    second: Buff enemy lightning L_thigh
+  - first:
+      213: 6426094006989353912
+    second: Buff enemy lightning R_forearm
+  - first:
+      213: -1254502864297616483
+    second: Buff enemy lightning R_leg
+  - first:
+      213: -9021282337818369999
+    second: Buff enemy lightning L_leg
+  - first:
+      213: 2552600188015142954
+    second: Buff enemy lightning L_forarm
+  - first:
+      213: -812471545051037462
+    second: Buff enemy lightning_9
+  - first:
+      213: 2956538964491735712
+    second: Buff enemy lightning_10
+  - first:
+      213: -6270535042533710338
+    second: Buff enemy lightning_11
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Buff enemy lightning R_arm
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 728
+        width: 345
+        height: 484
+      alignment: 9
+      pivot: {x: 0.55705816, y: 0.8321513}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eeb4803a55a2bc70800000000000000
+      internalID: 8985426013337206500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff enemy lightning body
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 763
+        width: 419
+        height: 552
+      alignment: 9
+      pivot: {x: 0.46867934, y: 0.4227339}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 986c0bf241c9f8d00800000000000000
+      internalID: 977171254676080265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff enemy lightning R_thigh
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 628
+        width: 141
+        height: 158
+      alignment: 9
+      pivot: {x: 0.3836579, y: 0.81147206}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a22273b6558f1e3d0800000000000000
+      internalID: -3178986816192175574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff enemy lightning L_arm
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 764
+        width: 254
+        height: 433
+      alignment: 9
+      pivot: {x: 0.4095834, y: 0.80308}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d5da2189f52c3660800000000000000
+      internalID: 7366804844015441360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff enemy lightning L_thigh
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 649
+        width: 112
+        height: 83
+      alignment: 9
+      pivot: {x: 0.23636137, y: 0.42094478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3cbf4ac6d2c78100800000000000000
+      internalID: 110270943666879550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff enemy lightning R_forearm
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 193
+        width: 413
+        height: 416
+      alignment: 9
+      pivot: {x: 0.34906533, y: 0.8312387}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b3fdd3d3721e2950800000000000000
+      internalID: 6426094006989353912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff enemy lightning R_leg
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 271
+        width: 152
+        height: 122
+      alignment: 9
+      pivot: {x: 0.8021827, y: 0.7958136}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9b94d3aa4c179ee0800000000000000
+      internalID: -1254502864297616483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff enemy lightning L_leg
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 340
+        width: 102
+        height: 127
+      alignment: 9
+      pivot: {x: 0.6929896, y: 0.78416765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 130a4d3b287fdc280800000000000000
+      internalID: -9021282337818369999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff enemy lightning L_forarm
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 255
+        width: 338
+        height: 382
+      alignment: 9
+      pivot: {x: 0.4029335, y: 0.8006005}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a28ec34c858ac6320800000000000000
+      internalID: 2552600188015142954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff enemy lightning_9
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 242
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae0ce173f6589b4f0800000000000000
+      internalID: -812471545051037462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff enemy lightning_10
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 243
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a29127168cb70920800000000000000
+      internalID: 2956538964491735712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff enemy lightning_11
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 228
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef5a32ef9959af8a0800000000000000
+      internalID: -6270535042533710338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

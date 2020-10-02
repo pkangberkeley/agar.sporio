@@ -1,0 +1,391 @@
+fileFormatVersion: 2
+guid: 41040b7154d26b04eb0bd77165909c42
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -523812325554343940
+    second: Buff Enemy Fire R_arm
+  - first:
+      213: 2725927053206994276
+    second: Buff enemy fire body
+  - first:
+      213: -8039075035557614907
+    second: Buff enemy fire R_thigh
+  - first:
+      213: -5249737132634812194
+    second: Buff enemy fire L_arm
+  - first:
+      213: 623309838942189111
+    second: Buff enemy fire L_thigh
+  - first:
+      213: -6722604940085925804
+    second: Buff enemy fire R_forearm
+  - first:
+      213: -7198569913709589609
+    second: Buff enemy fire R_leg
+  - first:
+      213: -4107775197503276688
+    second: Buff enemy fire L_leg
+  - first:
+      213: 6572240595887759780
+    second: Buff enemy fire L_forearm
+  - first:
+      213: -8530308932881172257
+    second: Buff enemy fire_9
+  - first:
+      213: 7132589336377668539
+    second: Buff enemy fire_10
+  - first:
+      213: 2184946198227213784
+    second: Buff enemy fire_11
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Buff Enemy Fire R_arm
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 728
+        width: 345
+        height: 484
+      alignment: 9
+      pivot: {x: 0.6141162, y: 0.8118155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cffac56177b0bb8f0800000000000000
+      internalID: -523812325554343940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff enemy fire body
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 763
+        width: 419
+        height: 537
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5427671}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46db70a563074d520800000000000000
+      internalID: 2725927053206994276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff enemy fire R_thigh
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 628
+        width: 141
+        height: 158
+      alignment: 9
+      pivot: {x: 0.40692616, y: 0.74917793}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5caa0e619d77f6090800000000000000
+      internalID: -8039075035557614907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff enemy fire L_arm
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 764
+        width: 254
+        height: 433
+      alignment: 9
+      pivot: {x: 0.43541664, y: 0.8182339}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed0df1564ef2527b0800000000000000
+      internalID: -5249737132634812194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff enemy fire L_thigh
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 649
+        width: 112
+        height: 83
+      alignment: 9
+      pivot: {x: 0.3242411, y: 0.5000007}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 736b72ffef076a800800000000000000
+      internalID: 623309838942189111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff enemy fire R_forearm
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 193
+        width: 413
+        height: 416
+      alignment: 9
+      pivot: {x: 0.33317757, y: 0.85489845}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45864e4cc6284b2a0800000000000000
+      internalID: -6722604940085925804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff enemy fire R_leg
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 271
+        width: 152
+        height: 122
+      alignment: 9
+      pivot: {x: 0.78059787, y: 0.7958136}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79b868a9dca891c90800000000000000
+      internalID: -7198569913709589609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff enemy fire L_leg
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 340
+        width: 102
+        height: 127
+      alignment: 9
+      pivot: {x: 0.75732064, y: 0.78416765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07938a7c8304ef6c0800000000000000
+      internalID: -4107775197503276688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff enemy fire L_forearm
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 255
+        width: 338
+        height: 382
+      alignment: 9
+      pivot: {x: 0.38352036, y: 0.86072063}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a1aa40300a453b50800000000000000
+      internalID: 6572240595887759780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff enemy fire_9
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 242
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd8b64798314e9980800000000000000
+      internalID: -8530308932881172257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff enemy fire_10
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 243
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb3b78b163c0cf260800000000000000
+      internalID: 7132589336377668539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff enemy fire_11
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 228
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dd5caeadfc725e10800000000000000
+      internalID: 2184946198227213784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
